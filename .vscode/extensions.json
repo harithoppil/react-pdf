@@ -1,4 +1,0 @@
-{
-  "recommendations": ["biomejs.biome", "eamodio.gitlens"],
-  "unwantedRecommendations": ["dbaeumer.jshint"]
-}
